@@ -1,4 +1,3 @@
-[![Prog.kiev.ua](logo.png)](https://prog.kiev.ua)
 
 <h3>Java Start, Homework</h3>
 
