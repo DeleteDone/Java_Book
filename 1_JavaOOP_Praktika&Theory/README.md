@@ -9,7 +9,7 @@
 <li><strong>Основы ООП</strong>
     <ul>
         <li> 1.1. 
-            <a href="[/src/main/java/com/sana/askerova/lesson01/task01](https://github.com/Ask1509/Java_Book/tree/main/1_JavaOOP_Praktika%26Theory/src/main/java/com/sana/askerova/lesson01/task01)">
+            <a href="(https://github.com/Ask1509/Java_Book/tree/main/1_JavaOOP_Praktika%26Theory/src/main/java/com/sana/askerova/lesson01/task01)">
                 Написать класс Circle (круг) по аналогии с Rectangle и метод, который будет возвращать его площадь.
             </a>
         </li>
