@@ -1,9 +1,9 @@
 
 <h3>Java OOP, Homework</h3>
 
-[**<- Java Start**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaStart)
+[**<- Java Start**](https://github.com/Ask1509/Java_Book/tree/main/2_JavaStart)
 |
-[**Java PRO ->**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaPRO)
+[**Java PRO ->**](https://github.com/Ask1509/Java_Book/tree/main/3_JavaPRO)
 
 <ol>
 <li><strong>Основы ООП</strong>
@@ -384,8 +384,8 @@
 </li>
 </ol>
 
-[**<- Java Start**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaStart)
+[**<- Java Start**](https://github.com/Ask1509/Java_Book/tree/main/2_JavaStart)
 |
-[**Java PRO ->**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaPRO)
+[**Java PRO ->**](https://github.com/Ask1509/Java_Book/tree/main/3_JavaPRO)
 
 
