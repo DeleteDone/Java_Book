@@ -1,8 +1,7 @@
-[![Prog.kiev.ua](logo.png)](https://prog.kiev.ua)
 
 ## Java PRO, Homework
 
-[**<- Java OOP**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
+[**<- Java OOP**](https://github.com/Ask1509/Java_Book/tree/main/1_JavaOOP_Praktika%26Theory)
 |
 [**Final Project ->**](https://github.com/YuriiSalimov/AlexCoffee)
 
@@ -153,9 +152,8 @@ HTML документа.
 
 -------------------------------------------------------------------------
 
-[**<- Java OOP**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
+[**<- Java OOP**](https://github.com/Ask1509/Java_Book/tree/main/1_JavaOOP_Praktika%26Theory)
 |
 [**Final Project ->**](https://github.com/YuriiSalimov/AlexCoffee)
 
-[_**Yurii Salimov**_](https://www.linkedin.com/in/yurii-salimov)
-([yuriy.alex.salimov@gmail.com](mailto:yuriy.alex.salimov@gmail.com))
+
