@@ -3,7 +3,7 @@
 
 [**<- Java OOP**](https://github.com/Ask1509/Java_Book/tree/main/1_JavaOOP_Praktika%26Theory)
 |
-[**Final Project ->**](https://github.com/YuriiSalimov/AlexCoffee)
+[**Final Project ->**]
 
 ### Занятие 1. Reflection & Annotations
 
@@ -154,6 +154,6 @@ HTML документа.
 
 [**<- Java OOP**](https://github.com/Ask1509/Java_Book/tree/main/1_JavaOOP_Praktika%26Theory)
 |
-[**Final Project ->**](https://github.com/YuriiSalimov/AlexCoffee)
+[**Final Project ->**]
 
 
